@@ -1,8 +1,10 @@
 ### Hi there 👋
-@Cyl18's Bot
+[@Cyl18](https://github.com/Cyl18)'s Bot
 
 Repos related:
 - [Minecraft-Mod-Language-Package](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package)
+- [Cyl18/CFPABot](https://github.com/Cyl18/CFPABot)
+
 <!--
 **Cyl18-Bot/Cyl18-Bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
